@@ -1,0 +1,3 @@
+cpyKey,cpyName,server,to,cc,createReportBy,customOptions,filterBy,filterByOptions,frequency,requestor,useDefault,cdtOffset
+37242,CHARTER COMMUNICATIONS,4,kraghav@cisco.com,mamohta@cisco.com,Custom,bbr->Backbone|prr->Backbone|crr->Core|sar->Core|asw->Core|dsw->Core|dtr->Core|acr->Access|aar->Access,No Filter,NA,Daily,kraghav,Yes,1
+94037,BRIGHT HOUSE DATA,4,kraghav@cisco.com,mamohta@cisco.com,Custom,cbr->Backbone|car->Core|ser->Core|brr->Core|tsv->Core|mts->Core|ser->Core|der->Datacenter|dar->Business|pfw->Datacenter|nfw->Datacenter,No Filter,NA,Daily,kraghav,Yes,1

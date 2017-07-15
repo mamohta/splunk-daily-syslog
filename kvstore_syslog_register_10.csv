@@ -1,0 +1,4 @@
+cpyKey,cpyName,server,to,cc,createReportBy,customOptions,filterBy,filterByOptions,frequency,requestor,useDefault,cdtOffset
+82919,Exxon Mobil,10,pamurua@cisco.com,mamohta@cisco.com,Group,NA,Group,345840,Weekly,mamohta,Yes,5
+142714,VERIZON ITNUC,10,divyaja@cisco.com,mamohta@cisco.com,Collector,NA,Collector,vzwt,Weekly,mamohta,No,5
+119206,Verizon VMN,10,vankaush@cisco.com,mamohta@cisco.com,Group,NA,Group,"267122 ,266206 ,275944",Weekly,mamohta,Yes,5

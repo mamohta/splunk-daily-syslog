@@ -1,0 +1,4 @@
+cpyKey,cpyName,server,to,cc,createReportBy,customOptions,filterBy,filterByOptions,frequency,requestor,useDefault,cdtOffset
+70512,Telefonica,5,"gdouka@cisco.com,hoses@cisco.com,jmendonc@cisco.com,kesyadav@cisco.com,manomora@cisco.com,dquirozm@cisco.com,carcamac@cisco.com",mamohta@cisco.com,Single Report,NA,No Filter,NA,Weekly,mamohta,Yes,6
+77768,Telekom RO,5,telekom_ro-syslog@cisco.com,mamohta@cisco.com,Collector,NA,Collector,rt01,Weekly,mamohta,Yes,6
+69873,NOS Communications,5,kesyadav@cisco.com,mamohta@cisco.com,Group,NA,Group,"83552 , 83550",Weekly,mamohta,Yes,6
